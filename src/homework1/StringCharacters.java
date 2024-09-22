@@ -23,9 +23,7 @@ public class StringCharacters {
                 }
             }
         }
-            System.out.println("The text contained vowels: " + vowels);
-            System.out.println("Consonants: " + (letters - vowels));
-            System.out.println("Spaces: " + spaces);
+            System.out.println("The text contained vowels: " + vowels +"\n"+"Consonants: " + (letters - vowels)+"\n"+"Spaces: " + spaces);
 
     }
 }
