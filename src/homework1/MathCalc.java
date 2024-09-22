@@ -1,5 +1,7 @@
 package homework1;
-
+/**
+ * Task 1
+ */
 public class MathCalc {
     public static void main(String[] args) {
         double earthDiameter = 7600.0; 

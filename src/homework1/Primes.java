@@ -1,5 +1,7 @@
 package homework1;
-
+/**
+ * Task 2
+ */
 public class Primes {
     public static void main(String[] args) {
         int nValues = 50;
