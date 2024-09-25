@@ -1,3 +1,7 @@
+# Personal Data:
+- Name: Sadman Sakib
+- Matriculation Number: 7213446
+
 # Homework Assignment 1
 
 This project contains solutions for Homework Assignment 1, which includes several Java programs. The solutions are written using Eclipse IDE.
